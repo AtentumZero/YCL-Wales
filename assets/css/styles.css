@@ -122,7 +122,7 @@ iframe {
 /* ======= Header ======= */
 .header {
   padding: 30px 0;
-  background: #ff0000;
+  background: #00cc00;
   border-top: 10px solid #778492;
 }
 .header .btn {
@@ -149,7 +149,7 @@ iframe {
   margin-bottom: 15px;
 }
 .header .profile-content .social a {
-  background: #00e600;
+  background: #ff0000;
   width: 36px;
   height: 36px;
   display: inline-block;
